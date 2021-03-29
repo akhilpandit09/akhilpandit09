@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Akhileshwar pandit
 - 👀 I’m interested in coding and latest technology.
 - 🌱 I’m currently learning in computer system of information technology.
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ...
 
 <!---
 akhilpandit09/akhilpandit09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
